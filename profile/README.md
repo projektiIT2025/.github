@@ -25,7 +25,7 @@ Ovo je zajedničko okruženje namenjeno učenicima za vežbanje programiranja, t
    ```
 5. U okviru Visual Studio-a poveži projekat sa svojim repozitorijumom na GitHub-u.  
    (Možeš to uraditi preko **Git → Create Git Repository**).
-
+ # Detaljno uputstvo za kreiranjeje u dokumentu u folderu Uputstva:Uputstvo_MojPrviCSharpProjekat
 ---
 
 ### 3️⃣ Slanje linka nastavniku
