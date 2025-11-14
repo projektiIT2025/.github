@@ -11,6 +11,7 @@ Ovo je zajedničko okruženje namenjeno učenicima za vežbanje programiranja, t
 - Instaliraj **Git for Windows**: [https://git-scm.com/download/win](https://git-scm.com/download/win)  
 - Tokom instalacije, koristi **podrazumevana podešavanja** (samo klikći „Next“).
 - Git se automatski povezuje sa Visual Studio okruženjem.
+- # Detaljno uputstvo za instalaciju je u dokumentu u folderu Uputstva:Uputstvo za instalaciju Git for Windows i povezivanje sa Visual Studio-om
 
 ---
 
